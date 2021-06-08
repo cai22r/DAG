@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DAG>
+  <Nodes>
+    <Node Id="0">
+      <dependencies>
+        <Node Id="1" />
+        <Node Id="2" />
+      </dependencies>
+    </Node>
+    <Node Id="1">
+      <dependencies />
+    </Node>
+    <Node Id="2">
+      <dependencies />
+    </Node>
+    <Node Id="3">
+      <dependencies />
+    </Node>
+    <Node Id="4">
+      <dependencies />
+    </Node>
+  </Nodes>
+</DAG>

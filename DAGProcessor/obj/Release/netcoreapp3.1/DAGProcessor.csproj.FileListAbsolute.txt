@@ -1,0 +1,17 @@
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/test.xml
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/test2.xml
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/cycle.xml
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/DAGProcessor.deps.json
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/DAGProcessor.runtimeconfig.json
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/DAGProcessor.runtimeconfig.dev.json
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/DAGProcessor.dll
+/Users/ruimincai/DAGProcessor/DAGProcessor/bin/Release/netcoreapp3.1/DAGProcessor.pdb
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.csprojAssemblyReference.cache
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.Properties.Resources.resources
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.csproj.GenerateResource.cache
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.AssemblyInfoInputs.cache
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.AssemblyInfo.cs
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.csproj.CoreCompileInputs.cache
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.dll
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.pdb
+/Users/ruimincai/DAGProcessor/DAGProcessor/obj/Release/netcoreapp3.1/DAGProcessor.genruntimeconfig.cache
